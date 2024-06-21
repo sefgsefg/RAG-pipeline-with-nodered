@@ -18,9 +18,9 @@ from pprint import pprint
 from kfp_login import get_istio_auth_session
 from kfp_namespace import retrieve_namespaces
 
-host = "http://140.128.102.163:31740"
-username = "kubeflow02@gmail.com"
-password = "tkiizd"
+host = ""
+username = ""
+password = ""
 
 auth_session = get_istio_auth_session(
         url=host,
