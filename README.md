@@ -8,7 +8,7 @@ git clone https://github.com/sefgsefg/RAG-pipeline-with-nodered.git
 ```
 
 ```
-cd RAG_with_node-red/example
+cd RAG-pipeline-with-nodered/RAG_with_node-red/example
 ```
 
 ```
